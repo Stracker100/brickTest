@@ -3,6 +3,10 @@ package brick;
 import java.awt.Color;
 import java.awt.Graphics;
 
+
+//Når jeg laver ændringer her, hvad sker der så ?
+
+
 public class Ball {
 
 	private int ballWidth, ballHeight, ballX, ballY;
